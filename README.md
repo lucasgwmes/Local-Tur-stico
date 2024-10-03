@@ -14,7 +14,7 @@ progama exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologi
 <br>
 
 <p align="center">
-  <img alt="projeto Local Turistico" src="./Cover.png" width="100%">
+  <img alt="projeto Local Turistico" src="./assets/Cover.png" width="100%">
 </p>
 
 ## 🚀 Local Turístico
