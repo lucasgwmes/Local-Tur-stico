@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
  é um documentario sobre um local turístico
 
-- [Visite o projeto online](#)
+- [Visite o projeto online](https://lucasgwmes.github.io/Local-Tur-stico/)
 
 ## 🔖 Layout
 
