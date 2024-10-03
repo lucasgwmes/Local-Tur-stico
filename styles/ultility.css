@@ -1,0 +1,63 @@
+.headline{
+  font: var(--headline);
+  color: var(--text-headline);
+  font-weight: 700;
+}
+h1{
+  font: var(--h1);
+  font-weight: 700;
+  color: var(--text-primary);
+}
+h2{
+  font: var(--h2);
+  font-weight: 700;
+  color: var(--text-primary);
+}
+h3{
+  font: var(--h3);
+  font-weight: 700;
+  color: var(--text-primary);
+  padding-inline: 8px;
+  padding-bottom: 2px;
+}
+.subtitle{
+  font: var(--subtitle);
+  font-style: italic;
+}
+p{
+  font: var(--paragraph);
+  color: var(--text-secondary)
+}
+#container img{
+  max-width: 1120px;
+  border-radius: 28px;
+ }
+ .casais{
+  font: var(--paragraph);
+  color: var(--accent-purple);
+  font-weight: 700;
+ }
+ .familia{
+  font: var(--paragraph);
+  color: var(--accent-pink);
+  font-weight: 700;
+ }
+ .Orçamento{
+  font: var(--paragraph);
+  color: var(--accent-orange);
+  font-weight: 700;
+  
+ }
+ a{
+  font: var(--paragraph);
+  color:var(--text-secondary);
+  text-decoration: none;
+ }
+ span{
+  font: var(--paragraph);
+  color:var(--text-secondary);
+ }
+ ul{
+  padding-left: 35px;
+  padding-bottom: 40px;
+ }

@@ -1,0 +1,105 @@
+body{
+  background-color: var(--background-default);
+}
+
+#container{
+  max-width: 1120px;
+  background-position: center;
+  margin: auto;
+  margin-top: 88px;
+
+  header{
+    p{
+      padding-bottom: 8px;
+    }
+  }
+
+  .conheça{
+    padding-block: 40px 40px;
+
+    p{
+      text-align: center;
+      padding-top: 24px ;
+    }
+  }
+
+  }
+
+  #section1{
+    border-top:solid 0.05px var(--border-primary);
+
+    div{
+      padding-block: 64px;
+    }
+  
+    
+    h2{
+      padding-block: 2px 8px;
+    }
+    
+
+    img{
+      height: 350px;
+      width: 1120px;
+      object-fit: cover;
+
+    }
+    h3{
+      padding-bottom: 4px;
+    }
+
+  }
+
+  #section2{
+    padding-block: 20px;
+    
+
+    ul li{
+      color: var(--accent-blue);
+      font: var(--paragraph);
+      font-weight: 700;
+      padding-bottom: 48px;
+    }
+    img{
+      width: 1120px;
+      height: 350px;
+      object-fit: cover;
+    }
+  }
+
+  #section3{
+
+    ul li{
+      color: var(--accent-blue);
+      font: var(--paragraph);
+      font-weight: 700;
+      padding-bottom: 48px;
+    }
+  }
+  
+  #section4{
+     h3{
+      padding-top: 20px;
+     }
+
+  }
+  footer{
+    border-top: 0.5px solid var(--border-primary);
+
+    p{
+      padding-block: 40px 65px;
+      text-align: center;
+    }
+    
+    div{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding-bottom: 48px;
+      img{
+        padding-inline: 5px;
+
+      }
+
+    }
+  }
